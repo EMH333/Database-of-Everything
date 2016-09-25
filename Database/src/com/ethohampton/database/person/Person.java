@@ -14,6 +14,7 @@ public class Person extends com.ethohampton.database.object.Object{
 	
 	public Person() {
 		super();
+		
 	}
 
 }
