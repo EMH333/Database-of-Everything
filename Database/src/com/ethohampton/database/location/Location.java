@@ -2,7 +2,7 @@ package com.ethohampton.database.location;
 
 import java.util.Date;
 
-public class Location {
+public class Location extends com.ethohampton.database.object.Object {
 
 	private double latitude;
 	private double longitude;
